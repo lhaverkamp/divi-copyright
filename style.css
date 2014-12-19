@@ -1,0 +1,15 @@
+/** 
+ * Theme Name: Divi Copyright
+ * Theme URI: https://github.com/lhaverkamp/divi-copyright
+ * Description: Child theme based upon Divi from Elegant Themes that allows for a the copyright to be configurable.
+ * Author: Laura Haverkamp <laura@haverkamp.us> 
+ * Author URI: https://github.com/lhaverkamp
+ * License: GPL3
+ * License URI: http://www.gnu.org/licenses/gpl.html
+ * Template: Divi
+ * Version: 1.0.0
+ * Tags: footer, copyright
+ * Text-Domain: divi-copyright
+ */
+
+@import url("../Divi/style.css");
